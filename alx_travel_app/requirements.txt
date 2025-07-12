@@ -7,7 +7,7 @@ beautifulsoup4==4.10.0
 billiard==3.6.4.0
 bs4==0.0.1
 cached-property==2.0
-celery==5.2.7
+celery==5.3.67
 certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.12
